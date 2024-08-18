@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "306288778385",
+    "firebase_url": "https://let-find-13a58-default-rtdb.firebaseio.com",
+    "project_id": "let-find-13a58",
+    "storage_bucket": "let-find-13a58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306288778385:android:7489c3fcbb072f01f23330",
+        "android_client_info": {
+          "package_name": "com.example.smoke_detector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306288778385-nvgjci2rb9gk15tjark6dcleb76rii4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh0wdqxuP6Y16ZDKLFicKqdbw33SgzPwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306288778385-nvgjci2rb9gk15tjark6dcleb76rii4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
